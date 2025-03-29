@@ -31,7 +31,7 @@ We welcome contributions from the community to enhance the diversity and quality
 
 ## Contact Us
 
-If you have any questions, suggestions, or concerns regarding our datasets or this repository, please don't hesitate to contact us at [contact@ternary.asia](mailto:contact@ternarycapital.com). Your feedback is highly appreciated and helps us improve the quality of our offerings.
+If you have any questions, suggestions, or concerns regarding our datasets or this repository, please don't hesitate to contact us at [contact@ternary.capital](mailto:contact@ternary.capital). Your feedback is highly appreciated and helps us improve the quality of our offerings.
 
 Thank you for choosing Ternary Capital Cookbook Repository. 
 Happy researching and developing! 🚀
