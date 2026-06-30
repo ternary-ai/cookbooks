@@ -1,0 +1,31 @@
+# Secrets
+.env
+*.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Large annotation datasets (re-generatable)
+ner_annotated_2.5M.json
+ner_pre_dataset20230925.json
+
+# Editor / IDE / OS
+.DS_Store
+*.swp
+*.swo
+.idea/
+.claude/
