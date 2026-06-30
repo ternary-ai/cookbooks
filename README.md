@@ -1,37 +1,32 @@
-# Ternary Capital Cookbook Repository
+# Ternary Capital — Cookbooks
 
-Welcome to the Ternary Capital Cookbook Repository! 
-This repository is dedicated to providing cookbooks tailored for training autonomous agents and generating synthetic data for applications in finance. \
-Whether you're working on reinforcement learning algorithms, financial modeling, or data analysis, our cookbooks aim to facilitate your research and development processes.
+Recipes for building cognitive financial agents: tool use, memory management, knowledge graphs, and synthetic data.
+Part of Ternary's open-source stack for agentic financial intelligence.
 
-## About Ternary Capital
+## What this is
 
-Ternary Capital is committed to advancing the field of autonomous systems and financial technology through cutting-edge research and innovation. Our team comprises experts in machine learning, finance, and software engineering, striving to push the boundaries of what's possible in these domains.
+Step-by-step implementations covering the technical foundations of Ternary's cognitive agent stack. Each cookbook is a self-contained worked example for researchers and developers building grounded, reliable agents for financial applications.
 
-## Dataset Collection
+## Topics
 
-Our cookbooks collection covers a wide range of topics relevant to autonomous agents and financial applications, including:
+- **Tool use** — grounding agents in live data through structured tool calls
+- **Memory management** — persistent, intent-aware context that reduces hallucination and improves reliability
+- **Knowledge graphs** — structured reasoning over entities and relationships
+- **Synthetic data** — generating high-quality training data to improve agent reliability
+- **Local LLM** — running agent workflows cost-effectively without external APIs
 
-- **Local LLM** : Running agents through a model-as-a-service provider will quickly become expensive. 
-- **Tool use** : We are particularly interested in understanding tool use. 
-- **Memory Management** : Memory provides grounded context for our agents reducing hallucinations and improving reliability.
-- **Knowledge Graphs** : We believe Knowledge Graphs are a key pathway towards efficient reasoning helping our agents to ground their thought process.
-- **Synthetic data**: Creating data that explains data in a high quality can be really helpful in training agents and improve reliablity.
-- **AOT**: Whatever doesn't fit in the other categories.
+## Open Source
+
+Part of [github.com/ternary-ai](https://github.com/ternary-ai) — open-source agents, models, synthetic data, prompt engineering resources, and scaffolding maintained for the community.
 
 ## Disclaimer
 
-It's important to note that all cookbooks provided in this repository are offered "as is" and may contain errors or inaccuracies. 
-While we strive to ensure the quality and reliability of our cookbooks, users are encouraged to verify the cookbooks and use it at their own discretion. 
-Ternary Capital shall not be held liable for any damages or losses resulting from the use of these cookbooks.
+All cookbooks are provided as-is. Verify implementations before use in production or live trading environments. Ternary Capital accepts no liability for outcomes arising from use of this material.
 
 ## Contributing
 
-We welcome contributions from the community to enhance the diversity and quality of our dataset collection. If you have a cookbook that you believe would be valuable for training autonomous agents or for applications in finance, please feel free to submit a pull request with the cookbooks and relevant documentation.
+Submit a pull request with your cookbook and relevant documentation. Contact [contact@ternary.capital](mailto:contact@ternary.capital) with questions.
 
-## Contact Us
+## Contact
 
-If you have any questions, suggestions, or concerns regarding our datasets or this repository, please don't hesitate to contact us at [contact@ternary.capital](mailto:contact@ternary.capital). Your feedback is highly appreciated and helps us improve the quality of our offerings.
-
-Thank you for choosing Ternary Capital Cookbook Repository. 
-Happy researching and developing! 🚀
+[contact@ternary.capital](mailto:contact@ternary.capital) · US · Japan · Est. 2020
